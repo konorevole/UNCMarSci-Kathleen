@@ -1,8 +1,9 @@
 # UNCMarSci-Kathleen
 ## Scientist Bio
 My name is Kathleen Onorevole.  I usually tell people I'm a marine scientist.  If they're interested, I'll explain that I study [biogeochemistry] (http://piehlerlab.web.unc.edu/) or coastal restoration ecology.
+
 ## Three Things I've Been Doing at Work Recently
-1. Collecting the last bits of field data before the weather turns
+1. Collecting the last bits of ![field data] (http://newfs.s3.amazonaws.com/taxon-images-1000s1000/Poaceae/spartina-alterniflora-ha-mlovit-a.jpg) before the weather turns
 2. Organizing the UNC Marine Science Grad Student Symposium
 3. Compiling denitrification data from summer fieldwork
 
