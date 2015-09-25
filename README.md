@@ -14,3 +14,4 @@ My name is Kathleen Onorevole.  I usually tell people I'm a marine scientist.  I
 
 Where did you do your undergraduate work?
 
+Colgate University in Hamilton, NY
